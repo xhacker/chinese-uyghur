@@ -8,8 +8,8 @@
 
 # You need to edit these values.
 
-DICT_NAME		=	"My Dictionary"
-DICT_SRC_PATH		=	MyDictionary.xml
+DICT_NAME		=	"Chinese–Uyghur (Latin)"
+DICT_SRC_PATH	=	MyDictionary.xml
 CSS_PATH		=	MyDictionary.css
 PLIST_PATH		=	MyInfo.plist
 
@@ -22,7 +22,7 @@ DICT_BUILD_OPTS		=
 # The DICT_BUILD_TOOL_DIR value is used also in "build_dict.sh" script.
 # You need to set it when you invoke the script directly.
 
-DICT_BUILD_TOOL_DIR	=	"/DevTools/Utilities/Dictionary Development Kit"
+DICT_BUILD_TOOL_DIR	=	"/Users/xhacker/bin/Dictionary Development Kit"
 DICT_BUILD_TOOL_BIN	=	"$(DICT_BUILD_TOOL_DIR)/bin"
 
 ###########################
