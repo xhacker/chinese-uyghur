@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<d:dictionary xmlns="http://www.w3.org/1999/xhtml" xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng">
+{% for entry in entries %}
+<d:entry id="{{ entry.word|e }}" d:title="{{ entry.word|e }}">
+	<h1>{{ entry.word|e }}</h1>
+	<p>
+		{{ entry.explanation|e }}<br/>
+	</p>
+</d:entry>
+{% endfor %}
+</d:dictionary>
