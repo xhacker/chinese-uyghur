@@ -5,9 +5,9 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleIdentifier</key>
-	<string>im.xhacker.dictionary.ChineseUyghur-Latin</string>
+	<string>im.xhacker.dictionary.Chinese-Uyghur-ULY</string>
 	<key>CFBundleName</key>
-	<string>Chinese–Uyghur (Latin)</string>
+	<string>Chinese-Uyghur ULY</string>
 	<key>CFBundleShortVersionString</key>
 	<string>1.0</string>
 	<key>DCSDictionaryXSL</key>

@@ -8,7 +8,7 @@
 
 # You need to edit these values.
 
-DICT_NAME		=	"Chinese–Uyghur (Latin)"
+DICT_NAME		=	"Chinese-Uyghur ULY"
 DICT_SRC_PATH	=	MyDictionary.xml
 CSS_PATH		=	MyDictionary.css
 PLIST_PATH		=	MyInfo.plist
