@@ -10,8 +10,6 @@
 	<string>Chinese-Uyghur ULY</string>
 	<key>CFBundleShortVersionString</key>
 	<string>1.0</string>
-	<key>DCSDictionaryXSL</key>
-	<string>MyDictionary.xsl</string>
 	<key>DCSDictionaryUseSystemAppearance</key>
 	<true/>
 </dict>
